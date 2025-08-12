@@ -1,0 +1,37 @@
+# Virtual Environment
+venv/
+env/
+.env/
+classification/
+
+# Python files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.pyd
+
+# Data files
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*.h5
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Model files and large binaries
+*.model
+*.bin
+*.onnx
+*.pt
+*.pth
+*.weights
+
+# Logs and temp files
+logs/
+*.log
+temp/
