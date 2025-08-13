@@ -1,0 +1,12 @@
+{
+  "experiment_name": "C:\\Users\\ashish.kumar1\\CSL Classification\\my_ml_projects",
+  "timestamp": "2025-08-13T15:48:18.969563",
+  "models": [
+    "RandomForest",
+    "XGBoost",
+    "LightGBM",
+    "LogisticRegression",
+    "GradientBoosting"
+  ],
+  "total_models": 5
+}

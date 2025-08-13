@@ -1,0 +1,11 @@
+{
+  "cv_f1_mean": 0.8028826409642231,
+  "cv_f1_std": 0.02032687881406042,
+  "test_accuracy": 0.895,
+  "test_precision": 0.8720668077956734,
+  "test_recall": 0.7949999999999999,
+  "test_balanced_accuracy": 0.7949999999999999,
+  "test_f1": 0.8289945336173757,
+  "test_auc_raw": 0.9494210784313726,
+  "test_auc_calibrated": 0.9324866013071896
+}

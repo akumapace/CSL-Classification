@@ -1,0 +1,22 @@
+{
+  "High Risk": {
+    "count": 296,
+    "accuracy": 0.9459459459459459,
+    "mean_probability": 0.9403776932660995
+  },
+  "Low Risk": {
+    "count": 46,
+    "accuracy": 0.6086956521739131,
+    "mean_probability": 0.5169060918322212
+  },
+  "Medium Risk": {
+    "count": 56,
+    "accuracy": 0.6964285714285714,
+    "mean_probability": 0.7066871355408687
+  },
+  "Very Low Risk": {
+    "count": 2,
+    "accuracy": 0.0,
+    "mean_probability": 0.38075752362135895
+  }
+}
